@@ -14,3 +14,7 @@
 //     };
 //   }
 // });
+
+var MessageBox = React.createClass({
+  
+})

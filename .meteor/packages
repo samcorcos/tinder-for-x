@@ -13,5 +13,5 @@ grigio:babel
 ramda:ramda
 mike:mocha
 fourseven:scss
-meteoric:ionicons-sass
 meteoric:ionic-sass
+meteoric:ionicons-sass
