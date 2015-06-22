@@ -13,4 +13,5 @@ grigio:babel
 ramda:ramda
 mike:mocha
 fourseven:scss
-reactjs:react
+meteoric:ionicons-sass
+meteoric:ionic-sass
