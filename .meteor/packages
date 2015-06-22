@@ -5,10 +5,10 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
 insecure
 accounts-password
 grigio:babel
 ramda:ramda
 mike:mocha
-fourseven:scss
+practicalmeteor:chai
+ccorcos:react-radium
