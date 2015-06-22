@@ -8,10 +8,7 @@ meteor-platform
 autopublish
 insecure
 accounts-password
-digilord:faker
 grigio:babel
 ramda:ramda
 mike:mocha
 fourseven:scss
-meteoric:ionic-sass
-meteoric:ionicons-sass
